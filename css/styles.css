@@ -9,7 +9,7 @@
 body {
   box-sizing: border-box;
   margin: 0;
-  background: url("assets/images/hello1.svg");
+  background-image: url("/assets/images/hello1.svg");
   background-repeat: no-repeat;
   background-color: var(--color-light-pink);
   background-size: 100%;
